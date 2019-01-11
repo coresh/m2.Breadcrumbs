@@ -11,7 +11,7 @@
 		"OSL-3.0"
 	],
 	"require": {
-		"magento/module-theme": "100.2.*"	
+		"magento/module-theme": "*"	
 		},
 	"autoload": {
 		"files": [ 
