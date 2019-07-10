@@ -1,5 +1,5 @@
 {
-    "name": "faonni/module-breadcrumbs",
+    "name": "coresh/m2.breadcrumbs",
     "description": "Extension add breadcrumbs to pages in Magento 2 that by default do not have breadcrumbs.",
     "type": "magento2-module",
 	"version": "2.2.3",
@@ -18,7 +18,7 @@
 			"registration.php" 
 		],
 		"psr-4": {
-			"Faonni\\Breadcrumbs\\": ""
+			"Coresh\\Breadcrumbs\\": ""
 		}
 	}
 }
